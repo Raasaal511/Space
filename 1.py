@@ -3,5 +3,3 @@ name = 'Ansar'
 print('world!')
 print('NEW CODE!')
 print('!!!')
-
-print('HOLA!')
