@@ -1,0 +1,1 @@
+print('Any code')
